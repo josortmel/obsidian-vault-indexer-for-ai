@@ -10,6 +10,8 @@ Most AI tools struggle to understand the full structure of a deep folder hierarc
 - **AI-Ready Format:** Uses specific line-based chapter separation for better token recognition by AI models.
 - **Infrastructure Clarity:** Helps LLMs understand where information is located before they start reading individual notes.
 
+## Installation
+- Jus extract the .zip into obsidian plugins folder
 *(Note: Once officially approved, it will be available in the Obsidian Community Plugin store).*
 
 ## How to use
